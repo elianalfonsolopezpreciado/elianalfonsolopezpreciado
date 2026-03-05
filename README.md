@@ -4,7 +4,7 @@
 
 <h1>Elian Alfonso López</h1>
 
-<h3>AI Developer • Software Engineer • Systems Builder</h3>
+<h3>AI Developer • Software Engineer • Systems Architect</h3>
 
 <a href="https://github.com/elianalfonsolopezpreciado">
 <img src="https://img.shields.io/github/followers/elianalfonsolopezpreciado?style=social"/>
@@ -39,19 +39,90 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Passionate about <b>Artificial Intelligence</b>, advanced software architecture and complex technological systems.
+
+I am a <b>programmer, engineer, inventor, filmmaker, entrepreneur and writer</b> passionate about building technological systems and artificial intelligence.
+
 </p>
 
 <p align="center">
-I develop and train <b>AI models</b>, automation tools and scalable software.
+
+I develop <b>AI models, complex software architectures and experimental technologies</b>.  
+I also work on automation systems, machine learning pipelines and software platforms.
+
 </p>
 
 <p align="center">
-Currently working with <b>RAG systems, machine learning and intelligent agents.</b>
+
+I have experience in different fields including:
+
 </p>
 
 <p align="center">
-Occasionally I create <b>cinematic videos</b> and technology related content.
+
+• Artificial Intelligence Development  
+• Software Engineering  
+• Technology Entrepreneurship  
+• Financial Markets & Stock Trading  
+• Digital Product Development  
+• Filmmaking & Creative Production  
+
+</p>
+
+<p align="center">
+
+🏆 I was also a winner in an <b>international mathematics competition organized by Fundapromat</b>.
+
+</p>
+
+<p align="center">
+
+✍️ I have worked as a <b>ghostwriter for books</b> such as:
+
+<br>
+
+<a href="https://www.amazon.com/dp/B0GF75FHR9">
+Amazon Book Example
+</a>
+
+</p>
+
+<p align="center">
+
+🚀 I have also created multiple technology projects and online platforms.
+
+One of them was a <b>dropshipping store</b> that operated at:
+
+<br>
+
+<a href="https://web.archive.org/web/20240422034353/https://www.funropa.com/">
+funropa.com
+</a>
+
+</p>
+
+<p align="center">
+
+Due to lack of sales and funding the project was closed, along with several experimental platforms.
+
+</p>
+
+<p align="center">
+
+Currently I operate and develop **utility web platforms** such as:
+
+<br><br>
+
+<a href="https://myqrs.lat/">myqrs.lat</a>  
+<a href="https://mypassword.lat/">mypassword.lat</a>
+
+</p>
+
+<p align="center">
+
+I am also the creator of my own programming language:
+
+<b>Selene</b>
+
 </p>
 
 <hr>
@@ -65,11 +136,15 @@ Occasionally I create <b>cinematic videos</b> and technology related content.
 </div>
 
 <p align="center">
-AI models available on:
+
+AI experiments and models available on:
+
 <br>
+
 <a href="https://huggingface.co/elianalfonsolopezpreciado">
 huggingface.co/elianalfonsolopezpreciado
 </a>
+
 </p>
 
 <hr>
@@ -77,8 +152,39 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Programming Languages</h2>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,ruby,rust,go,kotlin,swift,lua"/>
+
+<br><br>
+
+<img width="48" src="https://github.com/elianalfonsolopezpreciado/Selene/blob/main/Functions/luna/2.png"/>
+
 </div>
+
+<p align="center">
+
+<b>Selene Programming Language</b>
+
+</p>
+
+<p align="center">
+
+Selene is a programming language I designed.  
+The logo shown above corresponds to <b>Luna</b>, a Python-based IDE created to program using the Selene language.
+
+</p>
+
+<p align="center">
+
+Project Repository:
+
+<br>
+
+<a href="https://github.com/elianalfonsolopezpreciado/Selene">
+github.com/elianalfonsolopezpreciado/Selene
+</a>
+
+</p>
 
 <hr>
 
@@ -152,32 +258,24 @@ huggingface.co/elianalfonsolopezpreciado
 
 <div align="center">
 
-<a href="mailto:alfonsolopezelian@gmail.com">
+<a style="display:inline-block;margin:10px;" href="mailto:alfonsolopezelian@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/elian-alfonso-l%C3%B3pez-b34966385/">
+<a style="display:inline-block;margin:10px;" href="https://www.linkedin.com/in/elian-alfonso-l%C3%B3pez-b34966385/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/ElianAlfonsoLoP">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="48"/>
+<a style="display:inline-block;margin:10px;" href="https://x.com/ElianAlfonsoLoP">
+<img width="48" src="https://cdn.simpleicons.org/x/ffffff"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/@ElianAlfonsoLopez">
+<a style="display:inline-block;margin:10px;" href="https://www.youtube.com/@ElianAlfonsoLopez">
 <img src="https://skillicons.dev/icons?i=youtube"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://huggingface.co/elianalfonsolopezpreciado">
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
+<a style="display:inline-block;margin:10px;" href="https://huggingface.co/elianalfonsolopezpreciado">
+<img width="40" src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
 </a>
 
 </div>
