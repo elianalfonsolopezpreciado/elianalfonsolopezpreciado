@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://x.com/ElianAlfonsoLoP">
-<img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 
 </div>
@@ -77,9 +77,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Programming Languages</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,ruby,rust,go,kotlin,swift,lua"/>
-
 </div>
 
 <hr>
@@ -87,9 +85,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Web Development</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,threejs,jquery,laravel,django,flask"/>
-
 </div>
 
 <hr>
@@ -97,9 +93,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Cloud & DevOps</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,nginx,netlify,vercel,githubactions,gitlab,heroku,supabase,firebase"/>
-
 </div>
 
 <hr>
@@ -107,9 +101,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Tools</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bash,powershell,cmake,selenium,notion"/>
-
 </div>
 
 <hr>
@@ -117,9 +109,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Creative & Development Tools</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=blender,unity,godot,flutter,svg"/>
-
 </div>
 
 <hr>
@@ -127,9 +117,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Hardware & Embedded</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-
 </div>
 
 <hr>
@@ -137,9 +125,7 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Operating Systems</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,mint,kali,windows"/>
-
 </div>
 
 <hr>
@@ -147,24 +133,16 @@ huggingface.co/elianalfonsolopezpreciado
 <h2 align="center">Development Environments</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,anaconda,vim"/>
-
 </div>
 
 <hr>
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elianalfonsolopezpreciado&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=elianalfonsolopezpreciado&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianalfonsolopezpreciado&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elianalfonsolopezpreciado&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -178,22 +156,28 @@ huggingface.co/elianalfonsolopezpreciado
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/elian-alfonso-l%C3%B3pez-b34966385/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/ElianAlfonsoLoP">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" width="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@ElianAlfonsoLopez">
 <img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://huggingface.co/elianalfonsolopezpreciado">
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
 </a>
 
 </div>
